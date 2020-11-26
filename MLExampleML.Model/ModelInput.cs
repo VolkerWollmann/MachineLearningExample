@@ -9,7 +9,6 @@ namespace MLExampleML.Model
         [ColumnName("Code"), LoadColumn(0)]
         public string Code { get; set; }
 
-
         [ColumnName("English"), LoadColumn(1)]
         public string English { get; set; }
 
